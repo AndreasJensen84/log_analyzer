@@ -1,0 +1,24 @@
+{"timestamp":"2025-09-13T10:01:00Z","user":"alice@contoso.com","ip":"203.0.113.10","action":"signin_success"}
+{"timestamp":"2025-09-13T10:05:00Z","user":"bob@contoso.com","ip":"203.0.113.20","action":"signin_failed"}
+{"timestamp":"2025-09-13T10:06:00Z","user":"bob@contoso.com","ip":"203.0.113.20","action":"invalid password"}
+{"timestamp":"2025-09-13T11:15:00Z","user":"carol@contoso.com","ip":"198.51.100.9","action":"denied"}
+{"timestamp":"2025-09-13T12:02:00Z","user":"alice@contoso.com","ip":"203.0.113.10","action":"succeeded"}
+
+{"timestamp":"2025-09-13T12:10:00Z","user":"dave@contoso.com","ip":"192.0.2.44","action":"signin_success"}
+{"timestamp":"2025-09-13T12:11:00Z","user":"eve@contoso.com","ip":"198.51.100.99","action":"signin_failed"}
+{"timestamp":"2025-09-13T12:12:00Z","user":"frank@contoso.com","ip":"198.51.100.99","action":"signin_failed"}
+{"timestamp":"2025-09-13T12:13:00Z","user":"grace@contoso.com","ip":"198.51.100.99","action":"signin_failed"}
+{"timestamp":"2025-09-13T12:15:00Z","user":"heidi@contoso.com","ip":"203.0.113.55","action":"denied"}
+{"timestamp":"2025-09-13T12:17:00Z","user":"ivan@contoso.com","ip":"203.0.113.77","action":"risky_action:severity=high"}
+{"timestamp":"2025-09-13T10:01:00Z","user":"alice@contoso.com","ip":"203.0.113.10","action":"signin_success"}
+{"timestamp":"2025-09-13T10:05:00Z","user":"bob@contoso.com","ip":"203.0.113.20","action":"signin_failed"}
+{"timestamp":"2025-09-13T10:06:00Z","user":"bob@contoso.com","ip":"203.0.113.20","action":"invalid password"}
+{"timestamp":"2025-09-13T11:15:00Z","user":"carol@contoso.com","ip":"198.51.100.9","action":"denied"}
+{"timestamp":"2025-09-13T12:02:00Z","user":"alice@contoso.com","ip":"203.0.113.10","action":"succeeded"}
+
+{"timestamp":"2025-09-13T12:10:00Z","user":"dave@contoso.com","ip":"192.0.2.44","action":"signin_success"}
+{"timestamp":"2025-09-13T12:11:00Z","user":"eve@contoso.com","ip":"198.51.100.99","action":"signin_failed"}
+{"timestamp":"2025-09-13T12:12:00Z","user":"frank@contoso.com","ip":"198.51.100.99","action":"signin_failed"}
+{"timestamp":"2025-09-13T12:13:00Z","user":"grace@contoso.com","ip":"198.51.100.99","action":"signin_failed"}
+{"timestamp":"2025-09-13T12:15:00Z","user":"heidi@contoso.com","ip":"203.0.113.55","action":"denied"}
+{"timestamp":"2025-09-13T12:17:00Z","user":"ivan@contoso.com","ip":"203.0.113.77","action":"risky_action:severity=high"}
